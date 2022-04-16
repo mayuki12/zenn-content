@@ -1,5 +1,5 @@
 ---
-title: "Fastlane の scan で iOS Simulator のリージョンや言語指定を出来るようにする"
+title: "XCTest や XCUITest を CI で実行する時にリージョンや言語指定する"
 emoji: "🍵"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [swift, xcode]
