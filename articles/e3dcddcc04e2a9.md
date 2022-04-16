@@ -44,6 +44,6 @@ Timezone を変更するには 環境変数 TZ を指定すればよいようで
 
 ![](/images/e3dcddcc04e2a9/xcode-scheme-environment.png)
 
-また、Test Plan 形式で設定を管理するようにした場合は、Configurations から設定を変えられます。多言語でのテストをするときは Schemes を言語後とに複数作成する必要がなくなるので、Test Plan 形式の方が便利そうですね。
+また、Test Plan 形式で設定を管理するようにした場合は、Configurations から設定を変えられます。多言語でのテストをするときは Schemes を言語毎に複数作成する必要がなくなるので、Test Plan 形式の方が便利そうですね。
 
 ![](/images/e3dcddcc04e2a9/xctestplan.png)
